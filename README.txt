@@ -1,4 +1,4 @@
-Python wrapper for Linux AX.25 stack, primarily written for DIXPRS APS digi/iGate.
+Python wrapper for Linux AX.25 stack, originally written for DIXPRS APS digi/iGate.
 
 Supports UI functions for APRS, no connected mode yet.
 
